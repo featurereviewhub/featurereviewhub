@@ -54,10 +54,15 @@ export default function Home() {
         .link {
           display: inline-flex;
           align-items: center;
+          text-decoration: none; /* لإزالة تنسيق الرابط الافتراضي */
+          color: inherit; /* لاستخدام لون النص الافتراضي */
         }
         .arrow {
           margin-left: 5px;
-          vertical-align: middle; /* يساعد في توسيط السهم داخل الرابط */
+          vertical-align: middle;
+        }
+        .arrow:hover {
+          stroke: #0070f3; /* تغيير لون السهم عند التحويم */
         }
       `}</style>
     </div>
