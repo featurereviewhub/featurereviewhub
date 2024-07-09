@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="HEY!" />
+        <Header title=" HEY!" />
         <p className="description">
-          Get started by editing <code>FEATUREIEWHUB</code>
+          Get started Shopping <code>FEATUREIEWHUB</code>
         </p>
       </main>
 
