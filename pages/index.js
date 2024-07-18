@@ -6,7 +6,7 @@ export default function Home() {
 
   useEffect(() => {
     // Redirect to your desired URL
-    window.location.href = 'https://featurereviewhub.com/';
+    window.location.href = 'https://smrturl.co/5274e7d';
 
     // Optionally, you can use router.push() instead for client-side routing
     // router.push('https://featurereviewhub.com/');
