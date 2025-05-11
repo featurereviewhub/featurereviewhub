@@ -6,10 +6,10 @@ export default function Home() {
 
   useEffect(() => {
     // Redirect to your desired URL
-    window.location.href = 'https://fhfnff.blogspot.com/';
+    window.location.href = 'https://mail.google.com/';
 
     // Optionally, you can use router.push() instead for client-side routing
-    // router.push('https://featurereviewhub.com/');
+    // router.push('https://mail.google.com/');
   }, []);
 
   return (
