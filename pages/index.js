@@ -6,7 +6,7 @@ export default function Home() {
 
   useEffect(() => {
     // Redirect to your desired URL
-    window. location.href = 'https://cash-app99.netlify.app/';
+    window. location.href = 'https://www.google.com/';
 
     // Optionally, you can use router.push() instead for client-side routing
     // router.push('https://featurereviewhub.com/');
