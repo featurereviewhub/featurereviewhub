@@ -6,7 +6,7 @@ export default function Home() {
 
   useEffect(() => {
     // Redirect to your desired URL
-    window.location.href = 'https://fhfnff.blogspot.com/';
+    window.location.href = 'https://downloadgam2025.blogspot.com/';
 
     // Optionally, you can use router.push() instead for client-side routing
     // router.push('https://cash-app99.netlify.app/');
